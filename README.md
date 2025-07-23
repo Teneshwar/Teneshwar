@@ -1,7 +1,9 @@
 <h1 >Hi there 👋, my name is Teneshwar Dwivedi</h1>
 <h3 align="center"> A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **Bot that Automatically Join Meeting**
+- 🔭 I’m currently working on **Bot that Automatically Join Meeting**   <p align="left">
+  ![image alt]   (https://github.com/Teneshwar/Teneshwar/blob/c6102d64d4ffaefacee8bbfeefa8c1440f540249/README.md)   
+</p>          
 
 - 🌱 I’m currently learning **Puppeteer**
 
