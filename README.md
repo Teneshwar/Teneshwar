@@ -1,6 +1,6 @@
 <h1 >Hi there 👋, my name is Teneshwar Dwivedi</h1>
 <h3 align="center"> A passionate frontend developer</h3>         
-<img align ="right" width=400 src=" ">
+<img align ="right" width=400 src="https://github.com/Teneshwar/Teneshwar/blob/main/4884785.jpg?raw=true">
 - 🌱 I’m currently learning **Puppeteer**
 
 - 💬 Ask me about **Reactjs , Express**
