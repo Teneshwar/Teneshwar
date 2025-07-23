@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Teneshwar/Teneshwar/blob/main/4884785.jpg?raw=true" alt="Profile" width="150" style="border-radius: 10px;" />
+      <img src="https://github.com/Teneshwar/Teneshwar/blob/main/4884785.jpg?raw=true" alt="Profile" width="15" style="border-radius: 10px;" />
     </td>
     <td>
       <h1>Hi there 👋, my name is Teneshwar Dwivedi</h1>
