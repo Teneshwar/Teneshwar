@@ -1,11 +1,13 @@
-<h1 >Hi there 👋, my name is Teneshwar Dwivedi</h1>
+<h1  align="center">Welcome toTeneshwar Dwivedi's profile! </h1>
 
-<h3 align="center"> A passionate frontend developer</h3>    
+<h2> Glad to see you here!</h2>
+<h3>I'm a curious full-stack learner and student who enjoys building web apps, exploring new technologies, and writing about what I learn. Always improving, one line of code at a time.</h3>
+<h3>Writing code with intention. Building things that (hopefully) make sense.</h3>
 <img align ="right" width=400 src="https://github.com/Teneshwar/Teneshwar/blob/main/4884785.jpg?raw=true">
 
 - 🌱 I’m currently learning **Puppeteer**
 
-- 💬 Ask me about **Reactjs , Express**
+- 💬 Ask me about anything, I am happy to help
 
 - 📫 How to reach me **teneshwar9752@gmail.com**
 
