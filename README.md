@@ -1,4 +1,4 @@
-<h1  align="center">Welcome toTeneshwar Dwivedi's profile! </h1>
+<h1  align="center">Welcome to Teneshwar Dwivedi's profile!👋</h1>
 
 <h2> Glad to see you here!</h2>
 <h3>I'm a curious full-stack learner and student who enjoys building web apps, exploring new technologies, and writing about what I learn. Always improving, one line of code at a time.</h3>
