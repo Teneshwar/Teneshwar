@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **teneshwar9752@gmail.com**
 
-- 📄 Know about my experiences  [🔗]([file:///C:/Users/tenes/Downloads/Teneshwar_Resume.pdf](https://drive.google.com/file/d/1EZoPyIL3ImSRRoh9i1pjlDDu6HdEMfvE/view?usp=sharing))
+- 📄 Know about my experiences  [🔗](https://drive.google.com/file/d/1EZoPyIL3ImSRRoh9i1pjlDDu6HdEMfvE/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
